@@ -80,5 +80,4 @@ This project demonstrates how banking transaction data can be analyzed using SQL
 
 
 
-Divya Ubhale
-Aspiring Data Analyst
+
